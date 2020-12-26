@@ -14,3 +14,11 @@ Procedure to setup this project :
 3. Next in Configuration Manager under TCP --->> port number --->> (set the value as) 1433.
 
 4.Now you are ready to run the program. But you ve to fill in some data in DB to experience the full functionality of the program.
+
+
+## Archiving
+
+I'm Archiving this PROJECT, I made this project for my grade 12 Board Exam Project. 
+**Reason For Archive**: I found that few things in MSVC (Microsoft Visual C++) have updated few 
+statements in the documentation and in their compiler, thus unable to compile this program, and I'm not able find the fix for this. Now I feel this project seems to be more
+amateurish than professional.
